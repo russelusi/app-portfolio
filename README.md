@@ -27,9 +27,11 @@ Welcome to my portfolio! Here you'll find information about my projects and expe
 - [Trucker Path: Truck GPS & Fuel on the App Store](https://apps.apple.com/ph/app/trucker-path-truck-gps-fuel/id782746890)
 
 ## Trucker Path: Load Board
-![Trucker Path: Load Board Screenshot](images/truckloads_1.PNG)
-![Trucker Path: Load Board Screenshot](images/truckloads_2.PNG)
-![Trucker Path: Load Board Screenshot](images/truckloads_3.PNG)
+<div style="display:flex; justify-content: space-around;">
+    <img src="images/truckloads_1.PNG" alt="Trucker Path Load Board Screenshot 1" style="width:200px;">
+    <img src="images/truckloads_2.PNG" alt="Trucker Path Load Board Screenshot 2" style="width:200px;">
+    <img src="images/truckloads_3.PNG" alt="Trucker Path Load Board Screenshot 3" style="width:200px;">
+</div>
 
 **Overview:**
 - Trucker Path: Load Board is a platform that connects truckers with available loads, helping them find the most profitable routes and loads. It streamlines the process of finding and booking loads, providing truckers with essential tools to optimize their operations.
