@@ -8,6 +8,11 @@ Welcome to my portfolio! Here you'll find information about my projects and expe
 ![Trucker Path: Truck GPS & Fuel Screenshot](images/truckerpath_1.PNG)
 ![Trucker Path: Truck GPS & Fuel Screenshot](images/truckerpath_2.PNG)
 
+<div style="display:flex; justify-content: space-around;">
+    <img src="images/truckerpath_1.PNG" alt="Trucker Path: Truck GPS & Fuel Screenshot 1" style="width:150px;">
+    <img src="images/truckerpath_2.PNG" alt="Trucker Path: Truck GPS & Fuel Screenshot 2" style="width:150px;">
+</div>
+
 **Overview:**
 - Trucker Path: Truck GPS & Fuel is a comprehensive navigation app designed for truckers. It offers a robust set of features tailored specifically for the trucking industry, including GPS navigation, truck stops, fuel prices, weigh stations, and parking availability.
 
@@ -29,8 +34,8 @@ Welcome to my portfolio! Here you'll find information about my projects and expe
 ## Trucker Path: Load Board
 <div style="display:flex; justify-content: space-around;">
     <img src="images/truckloads_1.PNG" alt="Trucker Path Load Board Screenshot 1" style="width:150px;">
-    <img src="images/truckloads_2.PNG" alt="Trucker Path Load Board Screenshot 2" style="width:200px;">
-    <img src="images/truckloads_3.PNG" alt="Trucker Path Load Board Screenshot 3" style="width:200px;">
+    <img src="images/truckloads_2.PNG" alt="Trucker Path Load Board Screenshot 2" style="width:150px;">
+    <img src="images/truckloads_3.PNG" alt="Trucker Path Load Board Screenshot 3" style="width:150px;">
 </div>
 
 **Overview:**
