@@ -55,7 +55,7 @@ Welcome to my portfolio! Here you'll find information about my projects and expe
 
 ## Swapoo Wallet
 <div style="display:flex; justify-content: space-around;">
-    <img src="images/swapoo_wallet.png" alt="Swapoo Screenshot" style="width:200px;">
+    <img src="images/swapoo_wallet.png" alt="Swapoo Screenshot" style="width:400px;">
 </div>
 
 **Features:**
