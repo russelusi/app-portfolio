@@ -6,8 +6,8 @@ Welcome to my portfolio! Here you'll find information about my projects and expe
 
 ## Trucker Path: Truck GPS & Fuel
 <div style="display:flex; justify-content: space-around;">
-    <img src="images/truckerpath_1.PNG" alt="Trucker Path: Truck GPS & Fuel Screenshot 1" style="width:150px;">
-    <img src="images/truckerpath_2.PNG" alt="Trucker Path: Truck GPS & Fuel Screenshot 2" style="width:150px;">
+    <img src="images/truckerpath_1.PNG" alt="Trucker Path: Truck GPS & Fuel Screenshot 1" style="width:200px;">
+    <img src="images/truckerpath_2.PNG" alt="Trucker Path: Truck GPS & Fuel Screenshot 2" style="width:200px;">
 </div>
 
 **Overview:**
