@@ -5,6 +5,8 @@ Welcome to my portfolio! Here you'll find information about my projects and expe
 ## [Download My Resume](resume.pdf)
 
 ## Swapoo Wallet
+![Swapoo Wallet Screenshot](images/swapoo_wallet.png)
+
 **Features:**
 - Able to hold cryptocurrency
 - KYC feature
@@ -21,6 +23,8 @@ Welcome to my portfolio! Here you'll find information about my projects and expe
 - Already pulled out from the app store.
 
 ## Laetitude
+![Laetitude Screenshot](images/laetitude.png)
+
 **Features:**
 - Provides knowledge through learning courses on financial basics and trading, combined with digital tools.
 
@@ -34,6 +38,8 @@ Welcome to my portfolio! Here you'll find information about my projects and expe
 - Already pulled out from the app store.
 
 ## IKON Pass
+![IKON Pass Screenshot](images/ikon_pass.png)
+
 **Features:**
 - Track stats like vertical, run difficulty, max speed, and current altitude
 - View weather and condition reports
@@ -50,6 +56,8 @@ Welcome to my portfolio! Here you'll find information about my projects and expe
 - [IKON Pass on the App Store](https://apps.apple.com/us/app/ikon-pass/id1482191120)
 
 ## CAPTOR
+![CAPTOR Screenshot](images/captor.png)
+
 **Features:**
 - Secure content capture
 - Photo annotation and editing
@@ -66,6 +74,8 @@ Welcome to my portfolio! Here you'll find information about my projects and expe
 - [Enterprise App](https://www.inkscreen.com/appconfig)
 
 ## Masarap
+![Masarap Screenshot](images/masarap.png)
+
 **Features:**
 - Connect with Facebook and Twitter
 - Search and reserve restaurant table
@@ -82,6 +92,8 @@ Welcome to my portfolio! Here you'll find information about my projects and expe
 - Already pulled out from the app store.
 
 ## docHugo
+![docHugo Screenshot](images/dochugo.png)
+
 **Features:**
 - Connect your HMO
 - Book an appointment with the clinic
@@ -91,7 +103,7 @@ Welcome to my portfolio! Here you'll find information about my projects and expe
 - Swift, UIKit, Google Maps, RESTful
 
 **Primary Role:**
-- Built the app from scratch and managed uploading it to the App Store. Communicated directly with the CTO for deliverables and feature planning.
+- Built the app from scratch and managed the delivery to the App Store. Communicated directly with the CTO for deliverables and feature planning.
 
 **App Store Link:**
 - Already pulled out from the app store.
