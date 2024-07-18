@@ -54,7 +54,9 @@ Welcome to my portfolio! Here you'll find information about my projects and expe
 - [Trucker Path: Load Board on the App Store](https://apps.apple.com/ph/app/trucker-path-load-board/id1007287939)
 
 ## Swapoo Wallet
-![Swapoo Wallet Screenshot](images/swapoo_wallet.png)
+<div style="display:flex; justify-content: space-around;">
+    <img src="images/swapoo_wallet.png" alt="Swapoo Screenshot" style="width:200px;">
+</div>
 
 **Features:**
 - Able to hold cryptocurrency
