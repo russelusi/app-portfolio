@@ -224,7 +224,6 @@ Welcome to my portfolio! Here you'll find information about my projects and expe
 - [Enterprise App](https://www.inkscreen.com/appconfig)
 
 ## Masarap
-![Masarap Screenshot](images/masarap.png)
 
 **Features:**
 - Connect with Facebook and Twitter
@@ -242,7 +241,6 @@ Welcome to my portfolio! Here you'll find information about my projects and expe
 - Already pulled out from the app store.
 
 ## docHugo
-![docHugo Screenshot](images/dochugo.png)
 
 **Features:**
 - Connect your HMO
