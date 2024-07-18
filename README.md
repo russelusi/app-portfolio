@@ -74,6 +74,7 @@ Welcome to my portfolio! Here you'll find information about my projects and expe
 - [Enterprise App](https://www.inkscreen.com/appconfig)
 
 ## Masarap
+![Masarap Screenshot](images/masarap.png)
 
 **Features:**
 - Connect with Facebook and Twitter
@@ -91,6 +92,7 @@ Welcome to my portfolio! Here you'll find information about my projects and expe
 - Already pulled out from the app store.
 
 ## docHugo
+![docHugo Screenshot](images/dochugo.png)
 
 **Features:**
 - Connect your HMO
@@ -105,3 +107,45 @@ Welcome to my portfolio! Here you'll find information about my projects and expe
 
 **App Store Link:**
 - Already pulled out from the app store.
+
+## Trucker Path: Truck GPS & Fuel
+![Trucker Path: Truck GPS & Fuel Screenshot](images/trucker_path_gps.png)
+
+**Overview:**
+- Trucker Path: Truck GPS & Fuel is a comprehensive navigation app designed for truckers. It offers a robust set of features tailored specifically for the trucking industry, including GPS navigation, truck stops, fuel prices, weigh stations, and parking availability.
+
+**Features:**
+- GPS navigation optimized for trucks
+- Real-time updates on truck stops, fuel prices, and parking availability
+- Weigh stations and fuel station locator
+- Route planning with truck-specific restrictions
+
+**Technologies Used:**
+- Swift, UIKit, Core Location, MapKit, Alamofire, Firebase, RESTful
+
+**Primary Role:**
+- Developed and maintained various features, including real-time updates on truck stops, fuel prices, and parking availability. Implemented GPS navigation optimized for trucks and integrated Core Location and MapKit for route planning.
+
+**App Store Link:**
+- [Trucker Path: Truck GPS & Fuel on the App Store](https://apps.apple.com/ph/app/trucker-path-truck-gps-fuel/id782746890)
+
+## Trucker Path: Load Board
+![Trucker Path: Load Board Screenshot](images/trucker_path_load_board.png)
+
+**Overview:**
+- Trucker Path: Load Board is a platform that connects truckers with available loads, helping them find the most profitable routes and loads. It streamlines the process of finding and booking loads, providing truckers with essential tools to optimize their operations.
+
+**Features:**
+- Search and book loads in real-time
+- Load recommendations based on location and preferences
+- Integrated messaging with shippers and brokers
+- Financial tools to manage earnings and expenses
+
+**Technologies Used:**
+- Swift, UIKit, Alamofire, Firebase, Core Data, RESTful
+
+**Primary Role:**
+- Developed key features such as real-time load search and booking, integrated messaging, and financial management tools. Worked on enhancing the user interface and improving overall app performance.
+
+**App Store Link:**
+- [Trucker Path: Load Board on the App Store](https://apps.apple.com/ph/app/trucker-path-load-board/id1007287939)
