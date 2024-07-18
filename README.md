@@ -74,7 +74,9 @@ Welcome to my portfolio! Here you'll find information about my projects and expe
 - Already pulled out from the app store.
 
 ## Laetitude
-![Laetitude Screenshot](images/laetitude.png)
+<div style="display:flex; justify-content: space-around;">
+    <img src="images/laetitude.png" alt="Laetitude" style="width:400px;">
+</div>
 
 **Features:**
 - Provides knowledge through learning courses on financial basics and trading, combined with digital tools.
@@ -89,7 +91,9 @@ Welcome to my portfolio! Here you'll find information about my projects and expe
 - Already pulled out from the app store.
 
 ## IKON Pass
-![IKON Pass Screenshot](images/ikon_pass.png)
+<div style="display:flex; justify-content: space-around;">
+    <img src="images/ikon_pass.png" alt="IKON Pass Screenshot" style="width:400px;">
+</div>
 
 **Features:**
 - Track stats like vertical, run difficulty, max speed, and current altitude
@@ -107,7 +111,9 @@ Welcome to my portfolio! Here you'll find information about my projects and expe
 - [IKON Pass on the App Store](https://apps.apple.com/us/app/ikon-pass/id1482191120)
 
 ## CAPTOR
-![CAPTOR Screenshot](images/captor.png)
+<div style="display:flex; justify-content: space-around;">
+    <img src="images/captor.png" alt="CAPTOR Screenshot" style="width:400px;">
+</div>
 
 **Features:**
 - Secure content capture
