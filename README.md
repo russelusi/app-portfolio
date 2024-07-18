@@ -28,7 +28,7 @@ Welcome to my portfolio! Here you'll find information about my projects and expe
 
 ## Trucker Path: Load Board
 <div style="display:flex; justify-content: space-around;">
-    <img src="images/truckloads_1.PNG" alt="Trucker Path Load Board Screenshot 1" style="width:200px;">
+    <img src="images/truckloads_1.PNG" alt="Trucker Path Load Board Screenshot 1" style="width:150px;">
     <img src="images/truckloads_2.PNG" alt="Trucker Path Load Board Screenshot 2" style="width:200px;">
     <img src="images/truckloads_3.PNG" alt="Trucker Path Load Board Screenshot 3" style="width:200px;">
 </div>
