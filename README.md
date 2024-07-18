@@ -1,5 +1,9 @@
 # App Portfolio
 
+Welcome to my portfolio! Here you'll find information about my projects and experience.
+
+## [Download My Resume](resume.pdf)
+
 ## Swapoo Wallet
 **Features:**
 - Able to hold cryptocurrency
