@@ -5,7 +5,7 @@ Welcome to my portfolio! Here you'll find information about my projects and expe
 ## [Download My Resume](resume.pdf)
 
 ## Trucker Path: Truck GPS & Fuel
-![Trucker Path: Truck GPS & Fuel Screenshot](images/truckerpath_1.png)
+![Trucker Path: Truck GPS & Fuel Screenshot](images/truckerpath_1.PNG)
 ![Trucker Path: Truck GPS & Fuel Screenshot](images/truckerpath_2.png)
 
 **Overview:**
