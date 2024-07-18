@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! Here you'll find information about my projects and experience.
 
-## [Download My Resume](John Russel Usi - CV.pdf)
+## [Download My Resume](resume.pdf)
 
 ## Swapoo Wallet
 **Features:**
