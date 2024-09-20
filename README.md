@@ -15,6 +15,7 @@ Welcome to my portfolio! Here you'll find information about my projects and expe
 - Trucker Path: Truck GPS & Fuel is a comprehensive navigation app designed for truckers. It offers a robust set of features tailored specifically for the trucking industry, including GPS navigation, truck stops, fuel prices, weigh stations, and parking availability.
 
 **Features:**
+- AI integration for booking of truck loads
 - GPS navigation optimized for trucks
 - Real-time updates on truck stops, fuel prices, and parking availability
 - Weigh stations and fuel station locator
