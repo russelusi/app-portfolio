@@ -88,3 +88,6 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+# Contains real reviewer names; keep local only
+images/clubserve/03-ratings-reviews.png
